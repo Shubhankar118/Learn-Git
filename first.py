@@ -5,6 +5,7 @@ from kivy.uix.label import Label
 from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 
+#abc
 class spartanGrid(GridLayout): #created gridlayout main class
     def __init__(self,**kwargs):  
         super(spartanGrid, self).__init__()
